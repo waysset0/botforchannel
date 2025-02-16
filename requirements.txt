@@ -1,0 +1,2 @@
+datetime==5.5
+aiogram==3.17.0
